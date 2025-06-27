@@ -18,32 +18,9 @@ Sou um profissional dedicado, com paixão por transformar ideias em soluções d
 🌱 Em constante aprendizado e crescimento
 
 ----
-### 💼 Serviços
-
-Ofereço serviços especializados para atender às necessidades de negócios e indivíduos:
-
-Criação de Sites: Desenvolvimento de websites modernos, responsivos e personalizados usando HTML, CSS, JavaScript e Tailwind CSS.
-
-Automação de Processos: Integração de automações para otimizar fluxos de trabalho, reduzindo tempo e custos.
-
-Melhoria de Processos Internos: Análise e otimização de processos para aumentar eficiência e produtividade.
-
-Entre em contato para discutir seu projeto! 📩
-
-----
 
 ### 🎉 Tecnologias que Utilizo no Dia a Dia
 
 Aqui estão as ferramentas e linguagens que domino:
 
-Python 🐍
-
-HTML 🔴
-
-CSS 🔵
-
-JavaScript 🌕
-
-Node.js 🌱
-
-Tailwind CSS 🎨
+Python 🐍 ,HTML 🔴, CSS 🔵, JavaScript 🌕, Node.js 🌱 e Tailwind CSS 🎨
